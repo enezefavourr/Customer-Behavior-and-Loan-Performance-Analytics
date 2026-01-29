@@ -2,7 +2,7 @@
 
 Project Objectives:
 
-##1. Loan Performance Classification & Prediction##
+**1. Loan Performance Classification & Prediction**
 
 Categorize customers into:
 
@@ -14,7 +14,7 @@ Defaulters
 
 Use historical loan and payment behavior to predict which category new or current customers may fall into (machine learning model).
 
-##2. Customer Acquisition & Retention Analysis##
+**2. Customer Acquisition & Retention Analysis**
 
 Track how the customer base grows or shrinks over time.
 
@@ -22,7 +22,7 @@ Identify patterns leading to customer churn (loss) or loyalty.
 
 Understand which acquisition channels or segments bring high-value customers.
 
-##3. Transaction Activity Trends##
+**3. Transaction Activity Trends**
 
 Analyze transaction volume/frequency over time.
 
