@@ -117,7 +117,7 @@ Finally, I:
 
 ---
 
-## 📈 Final Results
+## Final Results
 
 | Metric      | Value     |
 |-------------|-----------|
@@ -171,5 +171,4 @@ This project reflects real data science work:
   - **Stratification**
   - **Smart class weighting**
 
-💬 *This is the kind of modeling process you face in the real world.*
 
