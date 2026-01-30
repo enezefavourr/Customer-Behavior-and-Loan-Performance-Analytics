@@ -1,10 +1,10 @@
-# Customer Retention and Acquisition Analysis 
+Customer Retention and Acquisition Analysis 
 
-This phase focused on understanding **customer growth, retention, and churn behavior** using Lending Club loan data. The goal was to extract actionable insights about how customers join, stay, or leave over time — and communicate those insights through an interactive Power BI dashboard.
+This phase focused on understanding **customer growth, retention, and churn behavior** using Lending Club loan data. The goal was to extract actionable insights about how customers join, stay, or leave over time and communicate those insights through an interactive Power BI dashboard.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze **customer acquisition trends** over time  
 - Measure **customer retention** using active months  
@@ -14,7 +14,7 @@ This phase focused on understanding **customer growth, retention, and churn beha
 
 ---
 
-## 🧹 Data Preparation
+## Data Preparation
 
 - Filtered data from Lending Club's accepted loans dataset (2007–2018)
 - Created a `loan_performance` label:
@@ -26,13 +26,12 @@ This phase focused on understanding **customer growth, retention, and churn beha
   - `TRUE` for Defaulted or Non-performing loans
   - `FALSE` for Performing loans
 
----
 
 ## 📊 Dashboard Overview (Power BI)
 
-![Customer Retention Dashboard](images/dashboard-phase2.png)
+![Customer Retention Dashboard](../images/dashboard-phase2.png)
 
-### 🔢 KPI Cards
+### KPI Cards
 
 | Metric                 | Value      |
 |------------------------|------------|
@@ -43,7 +42,7 @@ This phase focused on understanding **customer growth, retention, and churn beha
 
 ---
 
-### 📈 Visual Insights
+### Visual Insights
 
 - **Customer Acquisition by Month**: Shows seasonal trends and growth rates over time.
 - **Churn Over Time**: Line chart comparing retained vs churned customers monthly.
@@ -53,7 +52,7 @@ This phase focused on understanding **customer growth, retention, and churn beha
 
 ---
 
-## 🔎 Key Insights
+## Key Insights
 
 - Most customers are retained for **20 months on average**, but a significant number churn before 12 months.
 - **13.4% of customers** were classified as churned (defaulted or at risk).
@@ -63,7 +62,7 @@ This phase focused on understanding **customer growth, retention, and churn beha
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Power BI** for interactive visual analytics
 - **DAX** for dynamic KPIs (churn rate, growth rate, averages)
@@ -72,18 +71,11 @@ This phase focused on understanding **customer growth, retention, and churn beha
 
 ---
 
-## 📦 Outcome
+## Outcome
 
 This dashboard provides a **stakeholder-ready view** of customer health, lifecycle, and risk — enabling any fintech product or risk team to:
 - Monitor growth and engagement
 - Identify churn patterns
 - Optimize product decisions by term and loan performance
 
-> ✅ **Phase 2 is complete and connects seamlessly with Phase 1 (Loan Performance Prediction).**
-
----
-
-## 📁 Next Phase
-
-> Move into **Phase 3: Transaction Activity Analysis**, which will explore spending behaviors, transaction frequency, and patterns across customer segments.
 
